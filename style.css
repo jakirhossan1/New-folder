@@ -1,0 +1,28 @@
+h1{
+    font-size: 50px;
+    color: rgb(15, 175, 0);
+ 
+}
+h2{
+    font-size: 40px;
+    color: blue;
+}
+section{
+    display: flex;
+    padding: 20px;
+}
+.half-width{
+    width: 50%;
+   
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    font-weight: 700;
+   
+}
+.top-benner{
+    background-image: url(images/back.jpeg);
+}
